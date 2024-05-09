@@ -7,7 +7,7 @@
 ###
 <h3 align="center">As a Professional developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibbdcse&label=Profile%20views&color=0e75b6&style=flat" alt="sakibbdcse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibbdcse&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="sakibbdcse" /> </p>
 
 
 <h3 align="left">CAREER OBJECTIVE 👨‍💻</h3>
