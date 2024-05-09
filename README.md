@@ -9,8 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibbdcse&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="sakibbdcse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibbdcse" alt="sakibbdcse" /></a</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibbdcse&theme=algolia" alt="sakibbdcse" /></a</p>
 <h3 align="left">CAREER OBJECTIVE 👨‍💻</h3>
 
 ###
