@@ -5,6 +5,7 @@
 <h3 align="left">🙎my name is Shadadot Hossain (Sakib) <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
 
 ###
+<h3 align="center">As a Professional developer from Bangladesh</h3>
 
 <h3 align="left">CAREER OBJECTIVE 👨‍💻</h3>
 
