@@ -5,7 +5,7 @@
 <h3 align="left">🙎my name is Shadadot Hossain (Sakib) <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
 
 ###
-<h3 align="center">As a Professional developer from Bangladesh</h3>
+<h3 align="center">As a Professional Full-Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibbdcse&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="sakibbdcse" /> </p>
 
