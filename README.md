@@ -105,8 +105,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
