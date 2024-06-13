@@ -173,13 +173,6 @@
 </div>
 
 ###
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=sahadothosain6619&theme=vue-dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
