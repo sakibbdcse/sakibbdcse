@@ -20,7 +20,7 @@
 <h2 align="left">About me 👇</h2>
 
 ###
-<p align="left">✨ Professional Experience 3years+<br>🎓Education:- B.sc In Computer Science <br>📚 I'm currently learning New technology <br>🎯Feature Goals: Google Amazon Microsoft Meta<br>🎲 Fun fact: Sports, Traveling, Signing</p>
+<p align="left">✨ Professional Experience 4years+<br>🎓Education:- B.sc In Computer Science <br>📚 I'm currently learning New technology <br>🎯Feature Goals: Google Amazon Microsoft Meta<br>🎲 Fun fact: Sports, Traveling, Signing</p>
 
 ###
 <div align="center">
